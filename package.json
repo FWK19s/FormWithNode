@@ -1,0 +1,22 @@
+{
+  "name": "formwithnode",
+  "version": "1.0.0",
+  "description": "FormWithNode",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FWK19s/FormWithNode.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FWK19s/FormWithNode/issues"
+  },
+  "homepage": "https://github.com/FWK19s/FormWithNode#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
